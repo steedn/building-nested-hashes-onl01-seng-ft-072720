@@ -19,7 +19,7 @@ def first_challenge
            name: "Benvolio",
            age: "17",
            attitude: "worried"
-         }
+         },
          secondf => {
            name: "Mercutio",
            age: "18",
@@ -46,7 +46,7 @@ def first_challenge
            name: "Steven",
            age: "30",
            attitude: "confused"
-         }
+         },
          secondf => {
            name: "Nurse",
            age: "44",
