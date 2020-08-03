@@ -15,12 +15,12 @@ def first_challenge
          status: "alive"
        },
        hero_friends: [
-         firstf => {
+         :firstf => {
            name: "Benvolio",
            age: "17",
            attitude: "worried"
          },
-         secondf => {
+         :secondf => {
            name: "Mercutio",
            age: "18",
            attitude: "hot-headed"
@@ -42,12 +42,12 @@ def first_challenge
          status: "alive"
        },
        heroine_friends: [
-         firstf => {
+         :firstf => {
            name: "Steven",
            age: "30",
            attitude: "confused"
          },
-         secondf => {
+         :secondf => {
            name: "Nurse",
            age: "44",
            attitude: "worried"
