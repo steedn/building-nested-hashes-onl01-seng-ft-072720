@@ -42,12 +42,12 @@ def first_challenge
          status: "alive"
        },
        heroine_friends: [
-         firstf{
+         firstf: {
            name: "Steven",
            age: "30",
            attitude: "confused"
          }
-         secondf{
+         secondf: {
            name: "Nurse",
            age: "44",
            attitude: "worried"
